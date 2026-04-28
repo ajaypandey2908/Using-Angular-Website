@@ -1,0 +1,14 @@
+.card:hover {
+  transform: translateY(-6px);
+  transition: 0.3s ease;
+}
+
+.card img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.border:hover {
+  background-color: #f8f9fa;
+  cursor: pointer;
+}
